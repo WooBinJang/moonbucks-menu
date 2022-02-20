@@ -167,4 +167,6 @@ function App() {
 }
 
 const app = new App();
+// 함수를 객체에 담아서 this 를 사용가능
+// 여러개의 메뉴판 생성 가능
 app.init();
